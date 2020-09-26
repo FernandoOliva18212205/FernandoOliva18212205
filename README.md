@@ -1,16 +1,24 @@
-### Hi there 👋
+![](https://images.cooltext.com/5466564.png)
 
-<!--
-**FernandoOliva18212205/FernandoOliva18212205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-Here are some ideas to get you started:
+Hola y bienvenido a mi perfil.
+- **Soy un estudiante de ingenieria en sistemas**📲
+- **Mi pasion es crear programas**😄
+- **Quiero crear mi propia empresa de software en el futuro**⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Informacion personal sobre mi:*💬
+
+| Nombre                      | Edad | Escuela                          | Carrera                       | Color | Comida |
+|-----------------------------|------|----------------------------------|-------------------------------|-------|--------|
+| Carlos Fernando  Leal Oliva | 20   | Instituto tecnológico de Tijuana | Ing. Sistemas Computacionales | Rojo  | Pizza  |
+
+Mi horario escolar:
+| Hora | Lunes                             | Martes                            | Miercoles                         | Jueves                            | Viernes      |
+|------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|--------------|
+| 2:00 | Lenguajes de interfaz             | Lenguajes de interfaz             | Lenguajes de interfaz             | Lenguajes de interfaz             |              |
+| 3:00 | Fundamentos de ing. de software   | Fundamentos de ing. de software   | Fundamentos de ing. de software   | Fundamentos de ing. de software   |              |
+| 4:00 | Taller de SO                      | Taller de SO                      | Taller de SO                      | Taller de SO                      |              |
+| 5:00 | Admon. De BD                      | Admon. De BD                      | Admon. De BD                      | Admon. De BD                      | Admon. De BD |
+| 6:00 | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones |              |
+| 7:00 | Programacion logica y funcional   | Programacion logica y funcional   | Programacion logica y funcional   | Programacion logica y funcional   |              |
