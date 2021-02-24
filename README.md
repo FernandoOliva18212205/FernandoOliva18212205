@@ -16,9 +16,9 @@ Hola y bienvenido a mi perfil.
 Mi horario escolar:
 | Hora | Lunes                             | Martes                            | Miercoles                         | Jueves                            | Viernes      |
 |------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|--------------|
-| 2:00 | Lenguajes de interfaz             | Lenguajes de interfaz             | Lenguajes de interfaz             | Lenguajes de interfaz             |              |
-| 3:00 | Fundamentos de ing. de software   | Fundamentos de ing. de software   | Fundamentos de ing. de software   | Fundamentos de ing. de software   |              |
-| 4:00 | Taller de SO                      | Taller de SO                      | Taller de SO                      | Taller de SO                      |              |
-| 5:00 | Admon. De BD                      | Admon. De BD                      | Admon. De BD                      | Admon. De BD                      | Admon. De BD |
-| 6:00 | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones |              |
-| 7:00 | Programacion logica y funcional   | Programacion logica y funcional   | Programacion logica y funcional   | Programacion logica y funcional   |              |
+| 1:00 | Lenguajes de interfaz             | Lenguajes de interfaz             | Lenguajes de interfaz             | Lenguajes de interfaz             |              |
+| 2:00 | Fundamentos de ing. de software   | Fundamentos de ing. de software   | Fundamentos de ing. de software   | Fundamentos de ing. de software   |              |
+| 3:00 | Taller de SO                      | Taller de SO                      | Taller de SO                      | Taller de SO                      |              |
+| 4:00 | Admon. De BD                      | Admon. De BD                      | Admon. De BD                      | Admon. De BD                      | Admon. De BD |
+| 5:00 | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones | Fundamentos de telecomunicaciones |              |
+| 6:00 | Programacion logica y funcional   | Programacion logica y funcional   | Programacion logica y funcional   | Programacion logica y funcional   |              |
