@@ -11,7 +11,7 @@ Hola y bienvenido a mi perfil.
 
 | Nombre                      | Edad | Escuela                          | Carrera                       | Color | Comida |
 |-----------------------------|------|----------------------------------|-------------------------------|-------|--------|
-| Carlos Fernando  Leal Oliva | 20   | Instituto tecnológico de Tijuana | Ing. Sistemas Computacionales | Rojo  | Pizza  |
+| Carlos Fernando  Leal Oliva | 22   | Instituto tecnológico de Tijuana | Ing. Sistemas Computacionales | Naranja  | Pizza  |
 
 Mi horario escolar:
 | Hora | Lunes                             | Martes                            | Miercoles                         | Jueves                            | Viernes      |
